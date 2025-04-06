@@ -6,4 +6,4 @@ In this repository all the mini projects developed by LDM Dev will be uploaded. 
 
 In this game the goal of user is to guess a random number generated from 1 to 5.
 
-<a href="" download>Download EXE Files Here</a>
+<a href="" download>Download EXE File Here</a>
